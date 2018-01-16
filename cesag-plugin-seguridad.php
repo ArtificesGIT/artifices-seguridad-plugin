@@ -55,12 +55,5 @@ function my_login_logo() { ?>
     </style>
 <?php }
 add_action( 'login_enqueue_scripts', 'my_login_logo' );
-// From https://codex.wordpress.org/Function_Reference/get_currentuserinfo
-	global $current_user;
-	get_currentuserinfo();	
-	
-	if ('artifices' === $current_user->user_login) {
-		// ACTIVAR EDICION TEMAS & PLUGINS
-		define('DISALLOW_FILE_EDIT',false);
-	}
+
 ?>
