@@ -45,7 +45,7 @@ define('DISALLOW_FILE_MODS',true);
 function my_login_logo() { ?>
     <style type="text/css">
         #login h1 a, .login h1 a {
-            background-image: url(http://www.pmaria.es/wp-content/uploads/2017/03/logo_pmaria.png);
+            background-image: url('logo-pureza.png');
 		height:62px;
 		width:200px;
 		background-size: 200px 62px;
