@@ -45,10 +45,10 @@ define('DISALLOW_FILE_MODS',true);
 function my_login_logo() { ?>
     <style type="text/css">
         #login h1 a, .login h1 a {
-            background-image: url('logo-pureza.png');
-		height:62px;
-		width:200px;
-		background-size: 200px 62px;
+        background-image: url('<?php echo plugins_url( 'logo-pureza.png', __FILE__ ) ; ?>');
+		height:137px;
+		width:110px;
+		background-size: 110px 137px;
 		background-repeat: no-repeat;
         	padding-bottom: 30px;
         }
