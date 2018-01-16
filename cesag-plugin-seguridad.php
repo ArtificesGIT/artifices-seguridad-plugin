@@ -46,9 +46,9 @@ function my_login_logo() { ?>
     <style type="text/css">
         #login h1 a, .login h1 a {
             background-image: url(http://www.pmaria.es/wp-content/uploads/2017/03/logo_pmaria.png);
-		height:52px;
-		width:240px;
-		background-size: 579px 180px;
+		height:62px;
+		width:200px;
+		background-size: 200px 62px;
 		background-repeat: no-repeat;
         	padding-bottom: 30px;
         }
