@@ -45,10 +45,10 @@ define('DISALLOW_FILE_MODS',true);
 function my_login_logo() { ?>
     <style type="text/css">
         #login h1 a, .login h1 a {
-            background-image: url(https://www.artifices.net/wp-content/uploads/2017/03/logo_web_01.png);
+            background-image: url(http://www.pmaria.es/wp-content/uploads/2017/03/logo_pmaria.png);
 		height:52px;
 		width:240px;
-		background-size: 240px 52px;
+		background-size: 579px 180px;
 		background-repeat: no-repeat;
         	padding-bottom: 30px;
         }
