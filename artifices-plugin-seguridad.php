@@ -1,6 +1,6 @@
 <?php
 /*
-Plugin Name: Opciones de Seguridad para clientes Artifices
+Plugin Name: Opciones de Seguridad para centros Pureza de Maria
 Plugin URI: https://www.artifices.net
 Description: Opciones básicas de seguridad: límite de revisiones, no actualizaciones automaticas, no edición de ficheros, no instalación de plugins. 
 * Version: 1.0.4
