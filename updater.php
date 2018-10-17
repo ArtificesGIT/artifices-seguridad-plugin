@@ -1,6 +1,6 @@
 <?php
 
-class Artifices_Updater {
+class cesag_Updater {
 
 	private $file;
 
